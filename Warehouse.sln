@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarehouseNetCore", "Warehouse\WarehouseNetCore.csproj", "{D2AF350E-E537-4807-968A-3B29AB2D8784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AF350E-E537-4807-968A-3B29AB2D8784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AF350E-E537-4807-968A-3B29AB2D8784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AF350E-E537-4807-968A-3B29AB2D8784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AF350E-E537-4807-968A-3B29AB2D8784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F2998CF-2104-49E8-BF02-EB5B134BF3A4}
+	EndGlobalSection
+EndGlobal
